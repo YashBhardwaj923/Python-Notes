@@ -1,0 +1,301 @@
+Date,Product,Branch,Sales,Revenue
+2024-01-01,Laptop,Houston,56,753.36
+2024-01-02,Laptop,San Francisco,43,1034.68
+2024-01-03,Laptop,Chicago,112,1028.87
+2024-01-04,Laptop,San Francisco,65,3421.45
+2024-01-05,Laptop,San Francisco,114,3857.2
+2024-01-06,Laptop,Los Angeles,118,3125.16
+2024-01-07,Laptop,Chicago,135,4829.78
+2024-01-08,Laptop,Chicago,179,2186.92
+2024-01-09,Laptop,Chicago,180,1785.7
+2024-01-10,Laptop,San Francisco,86,4408.7
+2024-01-11,Laptop,Houston,147,1506.18
+2024-01-12,Laptop,Chicago,37,4834.5
+2024-01-13,Laptop,San Francisco,44,554.7
+2024-01-14,Laptop,Los Angeles,73,4864.45
+2024-01-15,Laptop,Houston,77,694.22
+2024-01-16,Laptop,Los Angeles,86,4510.14
+2024-01-17,Laptop,Houston,123,2874.65
+2024-01-18,Laptop,San Francisco,193,4968.34
+2024-01-19,Laptop,New York,43,832.08
+2024-01-20,Laptop,Houston,133,2992.34
+2024-01-21,Laptop,Los Angeles,51,4861.86
+2024-01-22,Laptop,San Francisco,194,2853.94
+2024-01-23,Laptop,Houston,105,3332.29
+2024-01-24,Laptop,New York,170,3630.87
+2024-01-25,Laptop,New York,146,2545.43
+2024-01-26,Laptop,Chicago,174,3324.01
+2024-01-27,Laptop,Chicago,149,3129.41
+2024-01-28,Laptop,Los Angeles,36,4555.21
+2024-01-29,Laptop,Houston,123,704.51
+2024-01-30,Laptop,Houston,180,1764.33
+2024-01-31,Laptop,Chicago,156,4776.85
+2024-02-01,Laptop,Houston,62,4506.19
+2024-02-02,Laptop,Houston,195,2550.46
+2024-02-03,Laptop,New York,58,3290.6
+2024-02-04,Laptop,Chicago,189,1748.22
+2024-02-05,Laptop,San Francisco,45,1346.55
+2024-02-06,Laptop,Chicago,118,2586.64
+2024-02-07,Laptop,San Francisco,69,2090.09
+2024-02-08,Laptop,New York,172,3126.45
+2024-02-09,Laptop,Los Angeles,171,849.81
+2024-02-10,Laptop,Houston,32,4884.78
+2024-02-11,Laptop,New York,79,4937.95
+2024-02-12,Laptop,Houston,154,3641.73
+2024-02-13,Laptop,Los Angeles,76,2912.43
+2024-02-14,Laptop,Los Angeles,55,1892.87
+2024-02-15,Laptop,New York,192,4162.08
+2024-02-16,Laptop,Los Angeles,39,3581.29
+2024-02-17,Laptop,San Francisco,84,1231.78
+2024-02-18,Laptop,Los Angeles,27,4599.17
+2024-02-19,Laptop,Houston,163,4201.42
+2024-02-20,Laptop,Houston,161,4774.1
+2024-02-21,Laptop,Houston,134,3765.74
+2024-02-22,Laptop,Houston,162,3260.37
+2024-02-23,Laptop,San Francisco,111,2382.09
+2024-02-24,Laptop,Chicago,117,4697.28
+2024-02-25,Laptop,New York,85,4397.29
+2024-02-26,Laptop,Houston,51,703.48
+2024-02-27,Laptop,Los Angeles,105,618.65
+2024-02-28,Laptop,Houston,70,2194.09
+2024-02-29,Laptop,Los Angeles,172,4147.49
+2024-01-01,Smartphone,Los Angeles,82,4942.74
+2024-01-02,Smartphone,Houston,144,1176.88
+2024-01-03,Smartphone,San Francisco,169,3173.59
+2024-01-04,Smartphone,Los Angeles,77,2214.01
+2024-01-05,Smartphone,Los Angeles,77,4864.61
+2024-01-06,Smartphone,Houston,105,4289.54
+2024-01-07,Smartphone,Los Angeles,68,4272.48
+2024-01-08,Smartphone,Los Angeles,199,2609.12
+2024-01-09,Smartphone,Houston,189,2366.69
+2024-01-10,Smartphone,Houston,89,1730.33
+2024-01-11,Smartphone,New York,34,753.69
+2024-01-12,Smartphone,San Francisco,73,4391.25
+2024-01-13,Smartphone,San Francisco,120,4158.05
+2024-01-14,Smartphone,Los Angeles,27,4998.73
+2024-01-15,Smartphone,San Francisco,72,4984.87
+2024-01-16,Smartphone,Los Angeles,79,2999.44
+2024-01-17,Smartphone,New York,127,3960.44
+2024-01-18,Smartphone,Houston,24,4751.45
+2024-01-19,Smartphone,Houston,122,4323.41
+2024-01-20,Smartphone,Houston,25,1613.07
+2024-01-21,Smartphone,San Francisco,128,2527.45
+2024-01-22,Smartphone,New York,135,1081.22
+2024-01-23,Smartphone,San Francisco,113,4793.23
+2024-01-24,Smartphone,San Francisco,66,3227.79
+2024-01-25,Smartphone,New York,118,1528.89
+2024-01-26,Smartphone,New York,74,3522.65
+2024-01-27,Smartphone,New York,187,3281.58
+2024-01-28,Smartphone,New York,71,2111.73
+2024-01-29,Smartphone,Houston,163,1011.01
+2024-01-30,Smartphone,Chicago,32,3522.08
+2024-01-31,Smartphone,Chicago,133,2841.38
+2024-02-01,Smartphone,New York,143,3975.43
+2024-02-02,Smartphone,Chicago,125,2840.74
+2024-02-03,Smartphone,Chicago,177,4334.82
+2024-02-04,Smartphone,New York,166,2983.58
+2024-02-05,Smartphone,Chicago,164,3024.22
+2024-02-06,Smartphone,San Francisco,139,4444.94
+2024-02-07,Smartphone,Los Angeles,82,2315.67
+2024-02-08,Smartphone,Los Angeles,38,1103.07
+2024-02-09,Smartphone,New York,111,629.52
+2024-02-10,Smartphone,Houston,77,3898.12
+2024-02-11,Smartphone,New York,109,3291.39
+2024-02-12,Smartphone,Houston,136,3668.36
+2024-02-13,Smartphone,Los Angeles,81,1458.34
+2024-02-14,Smartphone,New York,42,1113.67
+2024-02-15,Smartphone,San Francisco,146,565.45
+2024-02-16,Smartphone,Chicago,156,2077.64
+2024-02-17,Smartphone,Houston,159,3154.63
+2024-02-18,Smartphone,Chicago,148,2265.1
+2024-02-19,Smartphone,Chicago,77,2468.64
+2024-02-20,Smartphone,New York,141,4568.71
+2024-02-21,Smartphone,Chicago,20,2067.15
+2024-02-22,Smartphone,San Francisco,53,2812.95
+2024-02-23,Smartphone,Chicago,115,4026.44
+2024-02-24,Smartphone,New York,145,2284.44
+2024-02-25,Smartphone,San Francisco,137,3299.39
+2024-02-26,Smartphone,Los Angeles,67,4380.64
+2024-02-27,Smartphone,Chicago,108,4772.84
+2024-02-28,Smartphone,New York,136,1161.83
+2024-02-29,Smartphone,Los Angeles,148,4669.64
+2024-01-01,Tablet,Los Angeles,35,2714.52
+2024-01-02,Tablet,Houston,88,1662.1
+2024-01-03,Tablet,San Francisco,41,2566.11
+2024-01-04,Tablet,Chicago,112,4910.15
+2024-01-05,Tablet,New York,95,2716.78
+2024-01-06,Tablet,Houston,173,1979.38
+2024-01-07,Tablet,San Francisco,163,3350.3
+2024-01-08,Tablet,Houston,198,1580.66
+2024-01-09,Tablet,San Francisco,105,841.38
+2024-01-10,Tablet,San Francisco,48,1079.96
+2024-01-11,Tablet,Chicago,88,1076.21
+2024-01-12,Tablet,San Francisco,66,1183.56
+2024-01-13,Tablet,Houston,113,1124.72
+2024-01-14,Tablet,San Francisco,163,3383.94
+2024-01-15,Tablet,Chicago,195,1318.46
+2024-01-16,Tablet,Chicago,104,2055.5
+2024-01-17,Tablet,Houston,58,4535.55
+2024-01-18,Tablet,Los Angeles,119,2632.83
+2024-01-19,Tablet,Los Angeles,52,3504.01
+2024-01-20,Tablet,San Francisco,120,1275.44
+2024-01-21,Tablet,New York,42,1365.3
+2024-01-22,Tablet,San Francisco,29,683.91
+2024-01-23,Tablet,Houston,88,1260.21
+2024-01-24,Tablet,Houston,119,1753.66
+2024-01-25,Tablet,Houston,53,1296.55
+2024-01-26,Tablet,Houston,199,899.16
+2024-01-27,Tablet,Houston,157,1042.86
+2024-01-28,Tablet,Chicago,166,2573.5
+2024-01-29,Tablet,Los Angeles,115,1428.5
+2024-01-30,Tablet,Houston,20,2139.21
+2024-01-31,Tablet,New York,88,2765.38
+2024-02-01,Tablet,New York,23,3606.78
+2024-02-02,Tablet,New York,35,676.9
+2024-02-03,Tablet,New York,43,4097.35
+2024-02-04,Tablet,Chicago,99,3325.55
+2024-02-05,Tablet,New York,21,867.92
+2024-02-06,Tablet,Houston,147,4431.1
+2024-02-07,Tablet,San Francisco,179,4643.93
+2024-02-08,Tablet,New York,103,774.85
+2024-02-09,Tablet,Chicago,171,1745.95
+2024-02-10,Tablet,Chicago,159,4127.91
+2024-02-11,Tablet,New York,197,3867.17
+2024-02-12,Tablet,San Francisco,182,1330.34
+2024-02-13,Tablet,New York,143,1442.07
+2024-02-14,Tablet,Chicago,52,2167.12
+2024-02-15,Tablet,Los Angeles,180,2680.35
+2024-02-16,Tablet,Houston,198,3282.15
+2024-02-17,Tablet,Chicago,190,2160.11
+2024-02-18,Tablet,New York,120,2581.41
+2024-02-19,Tablet,Houston,31,3863.62
+2024-02-20,Tablet,New York,86,665.07
+2024-02-21,Tablet,New York,84,1635.97
+2024-02-22,Tablet,Los Angeles,180,3710.07
+2024-02-23,Tablet,Houston,187,4528.43
+2024-02-24,Tablet,Houston,93,2802.55
+2024-02-25,Tablet,Los Angeles,62,2894.51
+2024-02-26,Tablet,Chicago,63,982.27
+2024-02-27,Tablet,New York,48,2513.36
+2024-02-28,Tablet,San Francisco,160,2896.78
+2024-02-29,Tablet,New York,31,1591.12
+2024-01-01,Headphones,New York,114,1711.59
+2024-01-02,Headphones,Chicago,65,2197.78
+2024-01-03,Headphones,New York,149,590.32
+2024-01-04,Headphones,Los Angeles,54,1949.36
+2024-01-05,Headphones,Los Angeles,100,1451.52
+2024-01-06,Headphones,Houston,109,1973.74
+2024-01-07,Headphones,San Francisco,27,1038.93
+2024-01-08,Headphones,New York,112,4507.37
+2024-01-09,Headphones,New York,173,3171.17
+2024-01-10,Headphones,Chicago,109,3555.96
+2024-01-11,Headphones,Los Angeles,181,4051.27
+2024-01-12,Headphones,San Francisco,134,2742.99
+2024-01-13,Headphones,Houston,124,891.14
+2024-01-14,Headphones,Los Angeles,154,2916.98
+2024-01-15,Headphones,Houston,77,3140.79
+2024-01-16,Headphones,Chicago,133,3854.48
+2024-01-17,Headphones,Chicago,94,2442.47
+2024-01-18,Headphones,New York,176,1074.11
+2024-01-19,Headphones,San Francisco,139,1776.99
+2024-01-20,Headphones,Houston,183,2133.87
+2024-01-21,Headphones,Los Angeles,40,3406.63
+2024-01-22,Headphones,Chicago,183,3068.5
+2024-01-23,Headphones,New York,157,2102.44
+2024-01-24,Headphones,New York,120,4939.32
+2024-01-25,Headphones,Houston,171,3225.99
+2024-01-26,Headphones,Chicago,196,1567.52
+2024-01-27,Headphones,San Francisco,118,958.02
+2024-01-28,Headphones,Chicago,55,1187.87
+2024-01-29,Headphones,Houston,115,1606.81
+2024-01-30,Headphones,Houston,171,1223.07
+2024-01-31,Headphones,Chicago,170,1339.55
+2024-02-01,Headphones,Houston,56,1782.93
+2024-02-02,Headphones,Chicago,31,1280.18
+2024-02-03,Headphones,Los Angeles,132,4535.44
+2024-02-04,Headphones,Chicago,32,861.05
+2024-02-05,Headphones,Chicago,42,2860.3
+2024-02-06,Headphones,Houston,118,2346.79
+2024-02-07,Headphones,Houston,124,4920.7
+2024-02-08,Headphones,New York,49,1004.18
+2024-02-09,Headphones,New York,36,2290.35
+2024-02-10,Headphones,Los Angeles,132,4862.62
+2024-02-11,Headphones,New York,81,4394.78
+2024-02-12,Headphones,Chicago,103,4176.82
+2024-02-13,Headphones,Houston,131,1660.56
+2024-02-14,Headphones,New York,105,1268.99
+2024-02-15,Headphones,New York,160,3508.89
+2024-02-16,Headphones,Los Angeles,38,4682.19
+2024-02-17,Headphones,Los Angeles,196,3005.43
+2024-02-18,Headphones,Chicago,119,3072.26
+2024-02-19,Headphones,Houston,159,1759.91
+2024-02-20,Headphones,Los Angeles,166,3962.72
+2024-02-21,Headphones,New York,95,1341.7
+2024-02-22,Headphones,Houston,28,1956.56
+2024-02-23,Headphones,Houston,47,2414.46
+2024-02-24,Headphones,New York,147,2784.25
+2024-02-25,Headphones,Los Angeles,71,1590.84
+2024-02-26,Headphones,New York,102,1016.77
+2024-02-27,Headphones,Houston,130,3247.79
+2024-02-28,Headphones,San Francisco,163,1798.84
+2024-02-29,Headphones,San Francisco,136,3115.57
+2024-01-01,Smartwatch,Chicago,88,1194.63
+2024-01-02,Smartwatch,New York,118,2665.13
+2024-01-03,Smartwatch,New York,159,2896.65
+2024-01-04,Smartwatch,Chicago,44,733.21
+2024-01-05,Smartwatch,Chicago,199,2014.72
+2024-01-06,Smartwatch,Chicago,142,1104.87
+2024-01-07,Smartwatch,Houston,72,785.19
+2024-01-08,Smartwatch,New York,170,4954.82
+2024-01-09,Smartwatch,Houston,163,1950.59
+2024-01-10,Smartwatch,Chicago,76,4144.44
+2024-01-11,Smartwatch,New York,58,1645.88
+2024-01-12,Smartwatch,Houston,128,3566.76
+2024-01-13,Smartwatch,Houston,61,3921.03
+2024-01-14,Smartwatch,Chicago,186,3180.37
+2024-01-15,Smartwatch,New York,161,2622.09
+2024-01-16,Smartwatch,Chicago,141,2353.28
+2024-01-17,Smartwatch,New York,152,2069.91
+2024-01-18,Smartwatch,San Francisco,182,4682.88
+2024-01-19,Smartwatch,Los Angeles,94,4237.79
+2024-01-20,Smartwatch,Los Angeles,165,4842.62
+2024-01-21,Smartwatch,Los Angeles,95,1059.34
+2024-01-22,Smartwatch,Chicago,28,3788.9
+2024-01-23,Smartwatch,San Francisco,93,4722.53
+2024-01-24,Smartwatch,New York,164,1315.55
+2024-01-25,Smartwatch,Houston,26,799.23
+2024-01-26,Smartwatch,New York,193,3835.04
+2024-01-27,Smartwatch,Houston,160,3085.13
+2024-01-28,Smartwatch,New York,187,4288.23
+2024-01-29,Smartwatch,San Francisco,189,1128.98
+2024-01-30,Smartwatch,Houston,156,4078.7
+2024-01-31,Smartwatch,Chicago,197,1407.32
+2024-02-01,Smartwatch,New York,46,1236.45
+2024-02-02,Smartwatch,New York,141,1239.2
+2024-02-03,Smartwatch,Houston,24,4165.59
+2024-02-04,Smartwatch,Chicago,48,3493.39
+2024-02-05,Smartwatch,Chicago,184,2853.79
+2024-02-06,Smartwatch,San Francisco,185,2114.74
+2024-02-07,Smartwatch,Chicago,102,4447.4
+2024-02-08,Smartwatch,Chicago,155,2266.0
+2024-02-09,Smartwatch,Chicago,128,4174.7
+2024-02-10,Smartwatch,Los Angeles,84,2476.11
+2024-02-11,Smartwatch,San Francisco,105,2196.25
+2024-02-12,Smartwatch,New York,164,2582.06
+2024-02-13,Smartwatch,Houston,90,1856.2
+2024-02-14,Smartwatch,New York,64,3864.24
+2024-02-15,Smartwatch,San Francisco,151,2762.24
+2024-02-16,Smartwatch,Houston,55,1544.96
+2024-02-17,Smartwatch,San Francisco,89,4548.09
+2024-02-18,Smartwatch,Chicago,178,2227.51
+2024-02-19,Smartwatch,Houston,38,2945.99
+2024-02-20,Smartwatch,Chicago,127,4579.12
+2024-02-21,Smartwatch,New York,186,3309.07
+2024-02-22,Smartwatch,New York,110,1026.04
+2024-02-23,Smartwatch,Houston,109,4729.24
+2024-02-24,Smartwatch,Houston,38,3324.69
+2024-02-25,Smartwatch,San Francisco,58,2007.08
+2024-02-26,Smartwatch,San Francisco,145,1126.72
+2024-02-27,Smartwatch,Chicago,192,4073.11
+2024-02-28,Smartwatch,Houston,160,3290.33
+2024-02-29,Smartwatch,New York,145,2900.57

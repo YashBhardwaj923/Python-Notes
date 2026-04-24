@@ -1,2 +1,3 @@
-# Python-Notes
-Complete Python Notes, Basic to Advanced, Like Pro Level
+# 🐍 Complete Python Notes using Jupyter Notebook
+
+> This repository contains complete Python notes created using `Jupyter Notebook`, designed for both `beginners` and `intermediate` learners. It covers core concepts such as variables, data types, operators, control structures, functions, and object-oriented programming, along with practical examples and exercises. The notes are structured in a simple and easy-to-understand manner, making them ideal for teaching and self-learning. Each topic is explained step by step with code snippets to enhance clarity and hands-on practice. This resource is especially useful for students, educators, and anyone looking to build a strong foundation in Python programming.
